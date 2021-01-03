@@ -9,4 +9,4 @@ K Means Clustering was applied on the dataset in order to determine the individu
 Reasearch paper which I studied, To know why Factor Aalysis, When Factor Analysis and some test to confirm it
 
 ##Future Work
-Deployment with Beutiful UI.
+Deployment with Beautiful UI.
