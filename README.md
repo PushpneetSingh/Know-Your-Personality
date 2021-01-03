@@ -5,8 +5,8 @@ K Means Clustering was applied on the dataset in order to determine the individu
 
 5 Clusters were made in order to determine which cluster represented which trait of person.
 
-##Resources
+## Resources
 Reasearch paper which I studied, To know why Factor Aalysis, When Factor Analysis and some test to confirm it
 
-##Future Work
+## Future Work
 Deployment with Beutiful UI.
